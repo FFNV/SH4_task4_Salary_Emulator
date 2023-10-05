@@ -1,4 +1,4 @@
-# Task 4. alary Emulator
+# Task 4. Salary Emulator
  
 Implement Spring app and Junit tests for it. This application will be an internal company salary application with Object Model: Employee, Position, Salary and a few services
  
